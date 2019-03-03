@@ -1,0 +1,32 @@
+#bg{
+    
+    height: 900px;
+    background-image: url('../../assets/img/body.jpg');
+   
+     background-repeat: no-repeat;
+     
+     background-size: 100%;
+     position: relative;
+     
+ 
+
+}
+#joinbutton:hover {
+
+background: black;
+color: white;
+width: 50%;
+
+}
+#joinbutton{
+margin-top: 100px;
+transition-timing-function: ease-in-out;
+}
+.uploadimg{
+    height: 200px;
+ margin-left: 100px;
+    background-repeat: no-repeat;
+    background-image: url('https://freeiconshop.com/wp-content/uploads/edd/upload-cloud-outline-filled.png');
+}
+
+
